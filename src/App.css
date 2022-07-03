@@ -1,0 +1,108 @@
+.submit {
+  background-color: #2C3E50;
+  border: none;
+  color: white;
+  padding: 11px 25px;
+  text-align: center;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.submit:hover {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 11px 25px;
+  text-align: center;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.card {
+  background-color: #27A28A;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  border-radius: 5px;
+  margin-top: 15%;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  width: 25%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.inputform {
+  background-color: white;
+  width: 85%;
+  height: 50%;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  margin-left: auto;
+  padding: 10px;
+  display: block;
+  font-size: 20px;
+
+}
+
+.table {
+  background-color: #27A28A;
+  color: white;
+  margin-top: 0;
+  margin-left: 0;
+  padding-bottom: 5px;
+}
+
+li {
+  background-color: #27A28A;
+  font-size: 25px;
+  margin-left: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  list-style-type: none;
+  display: inline;
+  overflow: hidden;
+
+}
+
+li:hover {
+  background-color: #2C3E50;
+  font-size: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  list-style-type: none;
+  display: inline;
+}
+
+a:hover {
+  color:#F49D1E;
+  text-decoration: none;
+}
+
+a {
+  color:#2C3E50;
+  text-decoration: none;
+}
+
+
+.searchBar {
+  display: inline;
+  float: right;
+  position: relative;
+  top: -25px;
+  margin-right: 10px;
+
+}
